@@ -7,7 +7,7 @@ print("List:", lst)
 # Add element
 lst.append(50)
 print("After adding:", lst)
-
+# /;[;...]
 # Remove element
 lst.remove(20)
 print("After removing:", lst)
